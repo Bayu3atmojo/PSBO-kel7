@@ -14,3 +14,4 @@ Aplikasi **IPB Borrowbook** yang akan dirancang dalam bentuk aplikasi web dengan
 Jika user memilih menu “Ingin Meminjamkan Buku”, maka user akan diarahkan ke suatu laman yang akan meminta user untuk mengisi beberapa data seperti informasi dan kategori buku yang dipinjamkan, kontak yang bisa dihubungi, kuantitas, serta alamat jelas. Jika user memilih menu “Ingin Meminjam Buku”, user akan diarahkan ke laman yang menampilkan list buku yang bisa dipinjam. Pada laman tersebut juga ada filter kategori dan kotak search untuk memudahkan user mencari buku yang diinginkan. Saat user memilih buku yang diinginkan, maka user akan diarahkan ke laman yang menampilkan detail dari buku tersebut yang informasinya telah diinput sebelumnya oleh user yang meminjamkan buku.
 
 # User Analysis
+<p align="center"><img src="https://user-images.githubusercontent.com/60166781/120910039-98c6c900-c6a5-11eb-9c21-e70cc2e926f3.png"></p>
