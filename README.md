@@ -15,3 +15,26 @@ Jika user memilih menu “Ingin Meminjamkan Buku”, maka user akan diarahkan ke
 
 # User Analysis
 <p align="center"><img src="https://user-images.githubusercontent.com/60166781/120910039-98c6c900-c6a5-11eb-9c21-e70cc2e926f3.png"></p>
+
+# Spesifikasi
+
+
+# Konsep OOP
+
+
+# Pembahasan
+
+
+# Implementasi
+Kami mengimplementasikan konsep OOP dalam kode PHP yang dibuat.
+
+# Saran
+Aplikasi IPB Borrowbook yang kami buat pada versi awal ini tentu masih jauh dari kesempurnaan, untuk itu diperlukan pengembagan lebih jauh khususnya dalam integritas database dengan perpustakaan IPB dan sosialisasi kepada mahasiswa IPB sehingga aplikasi ini dapat optimal dan memberikan kebermanfaatan yang jauh lebih luas.
+
+
+# Job Desk
+Abbas Zabier Mohammad - G6410015 - UI Designer/Frontend
+Luthfi Fachruddin - G64180025 - Frontend
+Bayu Tri Atmojo - G64180092 - Backend/Backup
+M.Aldi Alripa - G64180057 - Project Manager
+
