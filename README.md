@@ -17,23 +17,51 @@ Jika user memilih menu “Ingin Meminjamkan Buku”, maka user akan diarahkan ke
 <p align="center"><img src="https://user-images.githubusercontent.com/60166781/120910039-98c6c900-c6a5-11eb-9c21-e70cc2e926f3.png"></p>
 
 # Spesifikasi
-* Software
+* **Software**
 <p align="center"><img src="https://user-images.githubusercontent.com/60166781/121784380-f1ceb980-cbdd-11eb-8bef-bd38910c839a.jpg"></p>
 
-* Hardware
+* **Hardware**
 <p align="center"><img src="https://user-images.githubusercontent.com/60166781/121784676-6eae6300-cbdf-11eb-84f8-e5ae99e1c5e0.JPG"></p>
 
-* Tech Stack
+* **Tech Stack**
 
 # Konsep OOP
 
 # Tipe Desain
 
 # Pembahasan
+* **Usecase Diagram**
+<p align="center"><img src="https://user-images.githubusercontent.com/60166781/121785269-082b4400-cbe3-11eb-85e8-28b3cca19123.jpg"></p>
 
+* **Activity Diagram**
+<p align="center"><img src="https://user-images.githubusercontent.com/60166781/121785238-cf8b6a80-cbe2-11eb-9005-70e4cb7977f6.jpg"></p>
+
+* **Class Diagram**
+<p align="center"><img src="https://user-images.githubusercontent.com/60166781/121785310-4aed1c00-cbe3-11eb-849d-6d72a1748430.jpg"></p>
+
+* **Entity Relationship Diagram**
+* **Arsitektur Sistem**
+* **Fungsi Utama**
+* **Fungsi CRUD**
+  - Create Function
+    + Membuat akun user 
+    + Membuat pengajuan meminjamkan buku
+
+  - Read Function
+    + Melihat status peminjaman buku (buku sedang dipinjam atau tidak)
+    + Melihat daftar/detail data buku
+
+  - Update Function
+    + Mengubah status data buku
+    + Mengubah data profile
+
+  - Delete Function
+    + Menghapus pengajuan meminjamkan buku
+    + Menghapus akun
 
 # Implementasi
-Kami mengimplementasikan konsep OOP dalam kode PHP yang dibuat.
+* Screenshot Sistem
+* Link Aplikasi (Jika sudah didevelop)
 
 # Saran
 Aplikasi IPB Borrowbook yang kami buat pada versi awal ini tentu masih jauh dari kesempurnaan, untuk itu diperlukan pengembagan lebih jauh khususnya dalam integritas database dengan perpustakaan IPB dan sosialisasi kepada mahasiswa IPB sehingga aplikasi ini dapat optimal dan memberikan kebermanfaatan yang jauh lebih luas.
