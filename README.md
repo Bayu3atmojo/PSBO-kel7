@@ -17,7 +17,13 @@ Jika user memilih menu “Ingin Meminjamkan Buku”, maka user akan diarahkan ke
 <p align="center"><img src="https://user-images.githubusercontent.com/60166781/120910039-98c6c900-c6a5-11eb-9c21-e70cc2e926f3.png"></p>
 
 # Spesifikasi
+* Software
+<p align="center"><img src="https://user-images.githubusercontent.com/60166781/121784380-f1ceb980-cbdd-11eb-8bef-bd38910c839a.jpg"></p>
 
+* Hardware
+<p align="center"><img src="https://user-images.githubusercontent.com/60166781/121784676-6eae6300-cbdf-11eb-84f8-e5ae99e1c5e0.JPG"></p>
+
+* Tech Stack
 
 # Konsep OOP
 
