@@ -24,6 +24,18 @@ Jika user memilih menu “Ingin Meminjamkan Buku”, maka user akan diarahkan ke
 <p align="center"><img src="https://user-images.githubusercontent.com/60166781/121784676-6eae6300-cbdf-11eb-84f8-e5ae99e1c5e0.JPG"></p>
 
 * **Tech Stack**
+  - Framework
+    + bootstrap
+    + PHP
+    + React JS
+        
+   - Database
+        + PHPMyAdmin
+        + Laravel
+        + Mysql
+        
+   - Testing
+        + Postman
 
 # Konsep OOP
 
@@ -60,8 +72,16 @@ Jika user memilih menu “Ingin Meminjamkan Buku”, maka user akan diarahkan ke
     + Menghapus akun
 
 # Implementasi
-* Screenshot Sistem
-* Link Aplikasi (Jika sudah didevelop)
+* **Screenshot Sistem**
+   - Login
+   - Signup
+   - Homepage
+   - Page pinjam
+   - Page meminjamkan
+   - Add buku
+   - Profile
+
+* **Link Aplikasi (Jika sudah didevelop)**
 
 # Saran
 Aplikasi IPB Borrowbook yang kami buat pada versi awal ini tentu masih jauh dari kesempurnaan, untuk itu diperlukan pengembagan lebih jauh khususnya dalam integritas database dengan perpustakaan IPB dan sosialisasi kepada mahasiswa IPB sehingga aplikasi ini dapat optimal dan memberikan kebermanfaatan yang jauh lebih luas.
