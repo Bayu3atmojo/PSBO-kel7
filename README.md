@@ -21,6 +21,7 @@ Jika user memilih menu “Ingin Meminjamkan Buku”, maka user akan diarahkan ke
 
 # Konsep OOP
 
+# Tipe Desain
 
 # Pembahasan
 
@@ -33,8 +34,10 @@ Aplikasi IPB Borrowbook yang kami buat pada versi awal ini tentu masih jauh dari
 
 
 # Job Desk
-Abbas Zabier Mohammad - G6410015 - UI Designer/Frontend
-Luthfi Fachruddin - G64180025 - Frontend
-Bayu Tri Atmojo - G64180092 - Backend/Backup
-M.Aldi Alripa - G64180057 - Project Manager
+| Nama | Nim | Job |
+| ----------- | :---------: | :----------: |
+| Abbas Zabier Mohammad | G64180018 | UI Designer & Frontend Developer |
+| Luthfi Fachruddin | G64180025 | Frontend Developer |
+| M.Aldi Alripa | G64180057 | UI/UX Designer |
+| Bayu Tri Atmojo | G64180092 | Project Manajer & Backend Developer |
 
