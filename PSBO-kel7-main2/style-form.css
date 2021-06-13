@@ -1,0 +1,174 @@
+body {
+  background-image: url(/img/notebook.png);
+  font-family: "Montserrat", sans-serif;
+}
+
+.navbar-brand {
+  margin-left: 570px;
+  text-shadow: 1px 1px 1px #d4d4d4;
+  color: #323a8f;
+  font-weight: 600;
+}
+.nav-link,
+a {
+  color: black;
+}
+
+.container{
+	margin: 0 auto;
+}
+
+.form-container{
+	background: #ffffff;
+	padding: 20px;
+	border: 10px solid #323a8f;
+	position: absolute;
+  box-shadow: 0 0 3px rgba(0,0,0,.2);
+  border-radius: 1px;
+  margin-bottom: 30px;
+  top: 100px;
+  left: 200px;
+  margin-top: 30px;
+  border-top-width: 10px;
+  border-left-width: 10px;
+  border-right-width: 10px;
+  padding-top: 40px;
+  width: 850px;
+  height: auto;
+}
+
+
+fieldset{
+	border: 3px solid #bbb;
+  border-radius: 3px;
+  margin-bottom: 30px;
+}
+
+legend{
+	padding-right: 20px;
+  padding-left: 20px;
+  font-weight: 900;
+  color: #323a8f;
+  margin-bottom: 20px;
+}
+
+.form-grup{
+	margin-bottom: 20px;
+	margin-right: 20px;
+}
+
+.form-grup:after{
+	clear: both;
+}
+
+.label{
+	float: left;
+	width: 100%;
+	border: 0;
+	font-weight: 900;
+  padding: 10px 0px 0px 0px;
+  color: #777;
+  font-size: 12px;
+}
+
+.label label{
+	display: inline-block;
+  vertical-align: -webkit-baseline-middle;
+}
+
+.input{
+	float: left;
+	width: 800px;
+  height: auto;
+	border: 0;
+}
+
+input[type=text], select, input[type=email], input[type=number], textarea{
+	border: 2px solid #bbb;
+  padding: 8px;
+  border-radius: 3px;
+  background: #ffffff;
+  width: 100%;
+  font-family: inherit;
+  background-color: #ffffff;
+  color: #323a8f;
+}
+
+input[type=text]:focus, select:focus, input[type=email]:focus, input[type=number]:focus, textarea:focus{
+	border:2px solid #323a8f;
+}
+
+select{
+	width: inherit;
+}
+
+input[type="radio"] {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 15px; height: 15px;
+  border:3px solid #999;
+  border-radius: 50%;
+  background-color: #ebebeb;
+  outline: 0;
+}
+
+input[type="radio"]:checked {
+  background-color: #666;
+}
+
+input[type="file"] {
+   display: none;
+}
+
+.upload-foto{
+    border: 4px solid #323a8f;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+.upload-foto:hover{
+  background: #323a8f;
+  text-decoration: none;
+  color: #ffffff;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+button[type=submit] {
+  background: #ffffff;
+  border-radius: 28px;
+  font-family: "Montserrat";
+  color: #323a8f;
+  font-size: 22px;
+  padding: 12px 20px 10px 20px;
+  text-decoration: none;
+  float: right;
+}
+
+button[type=submit]:hover {
+  background: #323a8f;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+
+@media screen and (max-width: 480px) {
+  .form-container, .form-grup, fieldset, legend,{
+    width: 100%;
+    margin-top: 0;
+  }
+  .container{
+    width: 100%;
+    margin: 0 auto;
+  }
+  .label{
+    float: none;
+    width: 100%;
+  }
+  .input{
+    float: none;
+    width: 100%;
+  }
+}

@@ -1,0 +1,35 @@
+body {
+  background-image: url(/img/notebook.png);
+}
+.navbar-brand {
+  margin-left: 570px;
+  text-shadow: 1px 1px 1px #d4d4d4;
+  color: #323a8f;
+  font-weight: 600;
+}
+.nav-link,
+a {
+  color: black;
+}
+
+.hero {
+  text-align: center;
+  font-size: 46px;
+  margin-top: 100px;
+  font-family: "poppins";
+  font-weight: 700;
+}
+.paragraf {
+  margin-top: 40px;
+  font-size: 16px;
+  text-align: center;
+}
+.btn {
+  color: #323a8f;
+  font-weight: 500;
+  border-color: #323a8f;
+}
+.btn-outline-primary:hover {
+  background-color: #323a8f;
+  border-color: #323a8f;
+}

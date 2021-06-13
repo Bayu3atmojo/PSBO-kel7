@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous" />
+    -->
+
+    <!-- My CSS -->
+    <link rel="stylesheet" type="text/css" href="style-form.css">
+
+    <title>Form Informasi Buku</title>
+  </head>
+
+  <body>
+     <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">IPB BORROWBOOK</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">Abbas Zabier Mohammad</a>
+            </li>
+            <li class="nav-item">
+              <a href="#"><img src="/img/Profil.png" alt="" /></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- akhir navbar -->
+
+    <!-- form container buku -->
+      <div class="form-container">
+        <form action="action.php" method="post" autocomplete="on" id="form1">
+
+          <fieldset>
+          <legend>Informasi Peminjam</legend>
+
+          <div class="form-grup">
+            <div class="label">
+              <label>Nama</label>
+            </div>
+            <div class="input">
+              <input type="text" name="nama" placeholder="Isikan Nama Lengkap Anda" maxlength="300" autofocus>
+            </div>
+
+            <div class="label">
+              <label>Email</label>
+            </div>
+            <div class="input">
+              <input type="email" name="email" placeholder="Email IPB Anda" maxlength="14" autofocus>
+            </div>
+    
+            <div class="label">
+              <label>Nomor WA</label>
+            </div>
+            <div class="input">
+              <input type="text" name="wa" placeholder="Nomor Whatsapp Aktif" maxlength="14" autofocus style="width: 200px;height: auto;" >
+            </div>
+
+            <div class="label">
+              <label>ID Line</label>
+            </div>
+            <div class="input">
+              <input type="text" name="line" placeholder="ID Line Aktif" maxlength="14" autofocus style="width: 200px;height: 20px;">
+            </div>
+
+            <div class="label">
+              <label>Alamat</label>
+            </div>
+            <div class="input">
+              <textarea name="alamat" placeholder="Isi alamat Anda untuk peminjaman" rows="6"></textarea>
+            </div>
+          </div>
+          </fieldset>
+
+          <fieldset>
+          <legend>Informasi Buku</legend>
+
+          <div class="form-grup">
+            <div class="label">
+              <label>Judul Buku</label>
+            </div>
+            <div class="input">
+              <input type="text" name="judulbuku" placeholder="Isikan Judul Buku Lengkap" maxlength="100" autofocus>
+            </div>
+
+            <div class="label">
+              <label>Pengarang</label>
+            </div>
+            <div class="input">
+              <input type="text" name="pengarang1" placeholder="Isikan Nama Pengarang 1" maxlength="100">
+              <input type="text" name="pengarang2" placeholder="Isikan Nama Pengarang 2" maxlength="100">
+              <input type="text" name="pengarang3" placeholder="Isikan Nama Pengarang 3" maxlength="100">
+            </div>
+
+            <div class="label">
+              <label>Penerbit</label>
+            </div>
+            <div class="input">
+              <input type="text" name="penerbit" placeholder="Isikan Nama Penerbit" maxlength="100" autofocus >
+            </div>
+
+            <div class="label">
+              <label>Tahun Terbit</label>
+            </div>
+            <div class="input">
+              <input type="text" name="tahun" placeholder="Tahun Buku" maxlength="5" autofocus style="width: 100px;height: 20px;">
+            </div>
+
+            <div class="label">
+              <label>Kategori Buku</label>
+            </div>
+            <div class="input">
+              <select name="kategori">
+                <option value="Fiksi" selected>Fiksi</option>
+                <option value="Karya Ilmiah" selected>Karya Ilmiah</option>
+                <option value="Pelajaran" selected>Pelajaran</option>
+                <option value="Catatan" selected>Catatan</option>
+                <option value="Biografi" selected>Biografi</option>
+                <option value="Novel" selected>Novel</option>
+                <option value="Komik" selected>Komik</option>
+                <option value="Panduan" selected>Panduan</option>
+              </select>
+            </div>
+
+            <div class="label">
+              <label>Kepemilikan</label>
+            </div>
+            <div class="input">
+              <input type="radio" name="Kepemilikan" value="1"> Sendiri <br>
+              <input type="radio" name="Kepemilikan" value="2"> Lembaga
+            </div>
+
+            <div class="label">
+              <label>Kuantitas Ketersediaan   Buku</label>
+            </div>
+            <div class="input">
+              <input type="number" name="kuantitas" value="0" min="0" max="10" autofocus style="width: 30px;height: 20px;">
+            </div>
+
+            <div class="label">
+              <label>Foto Buku</label>
+            </div>
+            <div class="input">
+              <label for="file-upload" class="upload-foto">
+                Upload Foto Buku
+              </label>
+              <input id="file-upload" type="file" accept="image/*" name="foto-buku">
+            </div>
+          </div>
+
+          </fieldset>
+
+          <div class="form-grup">
+            <button type="submit"><img src="img/buttonsubmit.png"> SUBMIT</button>
+          </div>
+
+
+<!--buat subscribe-->
+          <div class="form-grup">
+          <hr>
+            <input type="checkbox" name="subscribe" value="1" form="form1"> Subscribe notifikasi ke email Anda (jika tidak, silakan kosongi)<br>
+          </div>
+        </form>
+      </div>
+    </div>
+<!-- akhir form container buku -->
+
+  </body>
+</html>
