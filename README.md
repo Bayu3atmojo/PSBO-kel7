@@ -76,16 +76,16 @@ Jika user memilih menu “Ingin Meminjamkan Buku”, maka user akan diarahkan ke
 # Implementasi
 * **Screenshot Sistem**
    - Login
-<p align="center"><img src="https://user-images.githubusercontent.com/60166781/121792868-50b72180-cc24-11eb-87b2-05aecb7057de.JPG"></p>
+  <p align="center"><img src="https://user-images.githubusercontent.com/60166781/121792868-50b72180-cc24-11eb-87b2-05aecb7057de.JPG"></p>
 
    - Signup
-<p align="center"><img src="https://user-images.githubusercontent.com/60166781/121792873-64fb1e80-cc24-11eb-9d0c-1c4fa0ad675e.JPG"></p>
+  <p align="center"><img src="https://user-images.githubusercontent.com/60166781/121792873-64fb1e80-cc24-11eb-9d0c-1c4fa0ad675e.JPG"></p>
 
    - Homepage
-<p align="center"><img src="https://user-images.githubusercontent.com/60166781/121792889-7c3a0c00-cc24-11eb-8e71-aecbd02ce8e5.JPG"></p>
+  <p align="center"><img src="https://user-images.githubusercontent.com/60166781/121792889-7c3a0c00-cc24-11eb-8e71-aecbd02ce8e5.JPG"></p>
 
    - Page pinjam
-<p align="center"><img src="https://user-images.githubusercontent.com/60166781/121792900-8fe57280-cc24-11eb-94c1-abd8cc6ce96b.JPG"></p>
+  <p align="center"><img src="https://user-images.githubusercontent.com/60166781/121792900-8fe57280-cc24-11eb-94c1-abd8cc6ce96b.JPG"></p>
 
    - Page meminjamkan
    - Add buku
