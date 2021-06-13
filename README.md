@@ -52,6 +52,8 @@ Jika user memilih menu “Ingin Meminjamkan Buku”, maka user akan diarahkan ke
 <p align="center"><img src="https://user-images.githubusercontent.com/60166781/121785310-4aed1c00-cbe3-11eb-849d-6d72a1748430.jpg"></p>
 
 * **Entity Relationship Diagram**
+<p align="center"><img src="https://user-images.githubusercontent.com/60166781/121792421-a5f03480-cc1e-11eb-9b8d-e8267334b68d.jpg"></p>
+
 * **Arsitektur Sistem**
 * **Fungsi Utama**
 * **Fungsi CRUD**
