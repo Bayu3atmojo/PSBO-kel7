@@ -38,7 +38,10 @@ Jika user memilih menu “Ingin Meminjamkan Buku”, maka user akan diarahkan ke
         + Postman
 
 # Konsep OOP
-
+- Abstrak Class
+- Encapsulation
+- Inheritance
+- Polymorphism
 # Tipe Desain
 
 # Pembahasan
