@@ -109,11 +109,12 @@ Jika user memilih menu “Ingin Meminjamkan Buku”, maka user akan diarahkan ke
    - Page pinjam
   <p align="center"><img src="https://user-images.githubusercontent.com/60166781/121792900-8fe57280-cc24-11eb-94c1-abd8cc6ce96b.JPG"></p>
 
-   - Page meminjamkan
-   - Form Add buku
+   - Page Form Meminjamkan buku
   <p align="center"><img src="https://user-images.githubusercontent.com/60166815/121996497-ea243600-cdd2-11eb-8f34-72c583c9ef45.png"></p>
 
-   - Profile
+   - Dashboard
+  <p align="center"><img src="https://user-images.githubusercontent.com/60166815/122082029-d5bf5800-ce29-11eb-9524-113178e6dac4.png"></p>
+  <p align="center"><img src="https://user-images.githubusercontent.com/60166815/122082085-dfe15680-ce29-11eb-97cd-1960bc0e3144.png"></p>
 
 * **Link Aplikasi (Jika sudah didevelop)**
 
