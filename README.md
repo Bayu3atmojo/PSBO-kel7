@@ -39,7 +39,6 @@ Jika user memilih menu “Ingin Meminjamkan Buku”, maka user akan diarahkan ke
 
 # Konsep OOP 
 - Abstrak Class
-  tes
 - Encapsulation
 - Inheritance
 - Polymorphism
