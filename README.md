@@ -38,6 +38,8 @@ Jika user memilih menu “Ingin Meminjamkan Buku”, maka user akan diarahkan ke
         + Postman
 
 # Konsep OOP 
+* **Abstrak Class**
+   -kelas merupakan
 - Abstrak Class
 - Encapsulation
 - Inheritance
