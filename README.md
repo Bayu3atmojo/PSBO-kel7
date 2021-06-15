@@ -92,7 +92,7 @@ Jika user memilih menu “Ingin Meminjamkan Buku”, maka user akan diarahkan ke
 
    - Page meminjamkan
    - Form Add buku
-  <p align="center">!<img src="https://user-images.githubusercontent.com/60166815/121996497-ea243600-cdd2-11eb-8f34-72c583c9ef45.png></p>
+  <p align="center"><img src="https://user-images.githubusercontent.com/60166815/121996497-ea243600-cdd2-11eb-8f34-72c583c9ef45.png"></p>
 
    - Profile
 
