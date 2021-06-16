@@ -44,7 +44,7 @@ Jika user memilih menu “Ingin Meminjamkan Buku”, maka user akan diarahkan ke
    - Kelas dapat diilustrasikan sebagai suatu cetak biru(blueprint) atau prototipe yang digunakan untuk menciptakan objek.
    - Kelas merupakan tipe data bagi objek yang mengenkapsulasi data dan operasi pada data dalam suatu unit tunggal.
    - Kelas mendefinisikan suatu struktur yang terdiri atas data kelas (data field), prosedur atau fungsi (method), dan sifat kelas (property).
-   
+   ![image](https://user-images.githubusercontent.com/44494446/122146993-4003e700-ce82-11eb-8239-f00d738c849c.png)
 
 * **Encapsulation**
     - Istilah enkapsulasi sebenarnya adalah kombinasi data dan fungsionalitas dalam sebuah unit tunggal sebagai bentuk untuk menyembunyikan detail informasi.
