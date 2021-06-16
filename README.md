@@ -26,8 +26,7 @@ Jika user memilih menu “Ingin Meminjamkan Buku”, maka user akan diarahkan ke
 * **Tech Stack**
   - Framework
     + bootstrap
-    + PHP
-    + React JS
+    + PHP 7.4.1
         
    - Database
         + PHPMyAdmin
