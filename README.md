@@ -50,7 +50,7 @@ Jika user memilih menu “Ingin Meminjamkan Buku”, maka user akan diarahkan ke
     - Istilah enkapsulasi sebenarnya adalah kombinasi data dan fungsionalitas dalam sebuah unit tunggal sebagai bentuk untuk menyembunyikan detail informasi.
     - Proses enkapsulasi memudahkan kita untuk menggunakan sebuah objek dari suatu kelas karena kita tidak perlu mengetahui segala hal secara rinci.
     - Enkapsulasi menekankan pada antarmuka suatu kelas, atau dengan kata lain bagaimana menggunakan objek kelas tertentu.
-    ![image](https://user-images.githubusercontent.com/44494446/122142996-b43a8c80-ce7a-11eb-927a-fb2e74233e0c.png)
+    ![image](https://user-images.githubusercontent.com/44494446/122152402-7003b800-ce8b-11eb-8d8f-914c3599fe92.png)
 
 
 # Tipe Desain
