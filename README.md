@@ -54,6 +54,10 @@ Jika user memilih menu “Ingin Meminjamkan Buku”, maka user akan diarahkan ke
 
 
 # Tipe Desain
+MVC adalah singkatan dari Model View Controller. Yaitu sebuah arsitektur yang diadopsi developer ketika membangun sebuah aplikasi. Dengan arsitektur MVC, struktur aplikasi bersesuaian dengan bagaimana aliran data aplikasi bekerja. MVC adalah arsitektur perangkat lunak yang memisahkan domain/aplikasi/bisnis dan logika dari antarmuka pengguna lainnya. Ini dilakukan dengan memisahkan aplikasi menjadi tiga bagian: model, view, dan controller.
+
+![Tipe Desain MVC](https://user-images.githubusercontent.com/44494446/122147352-ed76fa80-ce82-11eb-8cdd-292938103865.png)
+
 
 # Pembahasan
 * **Usecase Diagram**
