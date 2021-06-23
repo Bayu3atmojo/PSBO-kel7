@@ -66,7 +66,7 @@ MVC adalah singkatan dari Model View Controller. Yaitu sebuah arsitektur yang di
 <p align="center"><img src="https://user-images.githubusercontent.com/60166781/121785238-cf8b6a80-cbe2-11eb-9005-70e4cb7977f6.jpg"></p>
 
 * **Class Diagram**
-<p align="center"><img src="https://user-images.githubusercontent.com/60166781/121785310-4aed1c00-cbe3-11eb-849d-6d72a1748430.jpg"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/60166781/123101143-eee58b80-d45d-11eb-8df5-3fb7021a9a50.jpeg"></p>
 
 * **Entity Relationship Diagram**
 <p align="center"><img src="https://user-images.githubusercontent.com/60166781/121792421-a5f03480-cc1e-11eb-9b8d-e8267334b68d.jpg"></p>
